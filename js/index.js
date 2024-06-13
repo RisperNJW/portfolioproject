@@ -169,7 +169,6 @@ let swiperTestimonial = new Swiper(".testimonial__container", {
 //             slidesPerView: 4,
 //             spaceBetween: 48,
 //         }
-
 //     }
 
 // });
